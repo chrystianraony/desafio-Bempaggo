@@ -3,6 +3,13 @@
 ## Project Setup
 
 ```sh
+npm init vue@latest
+```
+```sh
+cd <your-project-name>
+```
+
+```sh
 npm install
 ```
 
